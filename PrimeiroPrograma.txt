@@ -1,0 +1,38 @@
+Linha 6: inserido o main.
+
+Linha 8 e 9: definido variáveis.
+
+Linha 10: final double, que não permite que esta variável seja alterada em outra linha de código.
+
+Linha 12 e 13: print calculando variáveis definidas anteriormente, para cálcular a área da circunferencia. 
+
+Linha 16: print uma frase.
+
+Linha 18 a 22: exemplo da ultilização de comentários.
+
+Linha 24: print uma frase.
+
+Linha 26 e 27: exemplo de cálculo válido e inválido.
+
+Linha 29 a 33: explicação do JAVADOC.
+
+		-ANOTAÇÕES 
+
+A seguir temos um 'ponto de entrada' de um programa JAVA.
+Digitando: "main" e apertando as teclas CTRL+espaço, temos acesso a este código.
+OBS: O código possui chaves '{}' onde podemos executar outros códigos.
+
+Se digitarmos "syso" e apertar CTRL+espaço, geramos um código que que ira imprimir o que esta escrito entre parênteses.
+OBS: Sempre utilizar aspas duplas no texto, caso contrário dara erro.
+
+O "//" é utilizado para adicionar comentarios ao código.
+
+Ao digitar "int X", sendo X qualquer variavel, associamos/ um valor utilizando o sinal =.
+	 
+Para números decimais é utilizamos o "double".
+
+Quando o valor for fixo, e não queremos que seja alterado digitamos "final" antes da classificação, por exemplo pi.
+
+Ao calcular uma divisão em JAVA, se ultilizarmos apenas numeros inteiro, dara o resultado = 0.
+
+Para que o calculo ocorra, devemos usar 2.0/7.0 ao inves de 2/7.

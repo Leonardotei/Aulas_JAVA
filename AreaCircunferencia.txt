@@ -1,0 +1,11 @@
+		-AREA DA CIRCUNFÊRENCIA
+
+Linha 6: main, para iniciarmos o código.
+
+Linha 8: definido valor do raio.
+
+Linha 9: definido valor pi.
+
+Linha 11: definido valor da variavel 'area'
+
+Linha 13: imprime valor da area 
