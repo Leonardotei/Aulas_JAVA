@@ -1,0 +1,13 @@
+		EXERCÍCIO: CALCULO DE TEMPERATURA
+
+Linha 7: fórmula conversão °F para °C.
+
+Linha 8 e 9: variáveis fixas da fórmula.
+
+Linha 10: variável °F.
+
+Linha 12: variável celcius definida.
+
+Linha 14: print resultado.
+
+Linha 16 a 19: definindo outro valor, e repetindo processo.
