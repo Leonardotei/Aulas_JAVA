@@ -1,0 +1,25 @@
+		-TIPOS NUMÉRICOS INTEIROS
+
+Linha 11: temos o byte, números inteiros até 127, ao passar deste range, dará erro.
+
+Linha 12: temos o short, números inteiros até +- 32.767
+
+Linha 13: temos o int, números inteiros chegam ate +-2 bilhões 
+
+Linha 14: temos o long, se o valor respeitar o range do int, então funciona normalmente; 
+Caso o valor ultrapassa o range, e tera que ser marcado com um 'L' no final do valor.
+
+		-TIPOS NUMÉRICOS REAIS
+
+Linha 17: temos o float, como numeros com ponto flutuante, são normalmente double, é necessário ultilizar o 'F',
+no final do valor, assim o JAVA reconhece que aquele valor é um float.
+
+Linha 18: temos o double, que tem range superior que o float.
+
+		-TIPO BOOLEANO
+
+Linha 20: temos o boolean, associa true / false.
+
+		-TIPO CARACTERE
+
+Linha 24: temos o char, que podemos inserir 1 caractere.
