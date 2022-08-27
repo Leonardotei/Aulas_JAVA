@@ -1,0 +1,14 @@
+		-INFERENCIA
+
+Linha 7: double, que naturalmente acossia o valor sendo um número com ponto flutuante.
+
+Linha 10: var, permite que o proprio JAVA defina o tipo da variável, a partir do valor que inseriu, no exemplo desta
+linha, um double.
+
+Linha 13: var, definindo 'c' como uma variável string, com texto em "".
+
+Linha 16: a partir desta linha, 'c' é atribuido a um novo valor, mas não pode mudar o tipo de váriavel.
+
+Linha 19 a 21: exemplo de que uma variável pode ser definida, e posteriormente associada a um valor.
+
+OBS: se ultilizarmos o 'final' antes de uma variável (ex: final double), este valor não podera ser alterado.
