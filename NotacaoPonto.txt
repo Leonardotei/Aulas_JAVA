@@ -1,0 +1,17 @@
+	NOTAÇÃO PONTO
+
+Linha 8: temos o .toUpperCase(), que deixa a variavel em caixa-alta, porém apenas na linha deste código, 
+para associar isso a variavel, se deve inserir o 'var' = 'var'.toUpperCase()
+
+Linha 9: temos .replace(), que subistitui um valor por outro.
+
+OBS: ao imprimir, vemos que "Senhora" não aparece em caixa-alta, pois foi definida após o .toUpperCase.
+
+Linha 10: temos .concat(), que ira concatenar (unir) algo a uma variavel.
+
+Linha 14 a 16: exemplos de como podemos ultilizar as notações: no próprio println ou associar a uma variavel
+e imprimir esta variavel.
+
+Linha 18 a 22: exemplos de como um código ainda funciona, mesmo com a quebra da linha, a sentença do código se mantem.
+
+Linha 24 a 26: os tipos primitivos não operam com a notaçaõ ponto, pois são acossiadfos apenas ao valor estabelecido 
